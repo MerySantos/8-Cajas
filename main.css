@@ -1,0 +1,23 @@
+/* Inserta tu CSS aqui */
+
+.cuadrado{
+	background-color: gray;
+	border: 1px solid black;
+	margin:6px;
+}
+.contenedor{
+	
+	width: 355px;
+}
+.caja{
+	width: 100px;
+	height: 100px ;
+	
+}
+{
+background-color: green;
+}
+
+.iBlock{
+	display: inline-block;
+}
